@@ -64,3 +64,7 @@ form .btn-enviar input:hover {
     /* mais claro para a sombra ficar aparente */
     transform: scale(1.05);
 }
+
+html {
+    scroll-behavior: smooth;
+}
